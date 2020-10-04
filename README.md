@@ -1,6 +1,7 @@
-# socialmedia_integration
+## Social_Media_Integration
 
-A new Flutter project.
+#A new Flutter project. Also using Firebase Auth for authentication.
+This project let's you to sign in with your Google, Facebook and Twitter account. And then displays your name and profile picture with a sign out button which when clicked brings you back to sign in page.
 
 ## Getting Started
 
